@@ -139,7 +139,7 @@
 								<div class="rotate">
 									<h2 class="heading">About</h2>
 								</div>
-								<p>A 20 year old <a href="#">Computer Science Student</a> who is responsible for improving himself as he studies and also part of ICSLIS Student Council in Multimedia and Creatives.</p>
+								<p>A <a href="#">Computer Science Student</a> in City College of Angeles who is responsible for improving himself as he studies and also part of ICSLIS Student Council in Multimedia and Creatives.</p>
 								<p class="colorlib-social-icons">
 									<a href="#"><i class="icon-facebook4"></i></a>
 									<a href="#"><i class="icon-twitter3"></i></a>
