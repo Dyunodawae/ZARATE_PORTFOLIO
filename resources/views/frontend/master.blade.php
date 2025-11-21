@@ -118,10 +118,10 @@
 					<div class="col-md-5 animate-box">
 						<div class="owl-carousel3">
 							<div class="item">
-								<img class="img-responsive about-img" src="images/about1.jpg" alt="html5 bootstrap template by colorlib.com">
+								<img class="img-responsive about-img" src="images/about1N.jpg" alt="html5 bootstrap template by colorlib.com">
 							</div>
 							<div class="item">
-								<img class="img-responsive about-img" src="images/about2.png" alt="html5 bootstrap template by colorlib.com">
+								<img class="img-responsive about-img" src="images/about2N.png" alt="html5 bootstrap template by colorlib.com">
 							</div>
 						</div>
 					</div>
@@ -164,8 +164,8 @@
 							<div class="one-third">
 								<div class="row">
 									<div class="col-md-12 col-md-offset-0 animate-box intro-heading">
-										<span>My Services</span>
-										<h2>Here Are Some of My Skills</h2>
+										<span>My Future Services</span>
+										<h2>Here Are Some of My Future Skills</h2>
 									</div>
 								</div>
 								<div class="row">
@@ -227,86 +227,66 @@
 		<div id="colorlib-work">
 			<div class="container">
 				<div class="row text-center">
-					<h2 class="bold">Works</h2>
+					<h2 class="bold">Milestones</h2>
 				</div>
 				<div class="row">
 					<div class="col-md-12 col-md-offset-0 text-center animate-box intro-heading">
 						<span>Portfolio</span>
-						<h2>Done Projects</h2>
+						<h2>Achievements</h2>
 					</div>
 				</div>
 				<div class="row">
 					<div class="col-md-12">
 						<div class="rotate">
-							<h2 class="heading">Portfolio</h2>
+							<h2 class="heading">Portfolio</h2> <!-- MY ACHIEVEMENTS ARE HERE -->
 						</div>
 					</div>
 				</div>
 				<div class="row">
 					<div class="col-md-12">
 						<div class="work-entry animate-box">
-							<a href="work.html" class="work-img" style="background-image: url(images/work-1.jpg);">
-								<div class="display-t">
-									<div class="work-name">
-										<h2>Pursuing Best</h2>
-									</div>
-								</div>
+							<a href="work.html" class="work-img" style="background-image: url(images/achievements1N.png);">
+                            <!-- Removed the "class = display-t button" -->
 							</a>
 							<div class="col-md-4 col-md-offset-4">
 								<div class="desc">
-									<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
-									<p class="read"><a href="#">View details</a></p>
+									<p>Graduated High School with Honors and Senior High School with High Honors Specializing in Science, Technology, Engineering, and Mathematics Strand (STEM) in New Era University Pampanga Branch.</p>
+								</div> <!-- Removed the "view details button" -->
+							</div>
+						</div>
+					</div>
+					<div class="col-md-12">
+						<div class="work-entry animate-box">
+							<a href="work.html" class="work-img" style="background-image: url(images/achievements2N.png);">
+							<!-- Removed the "class = display-t button" -->
+							</a>
+							<div class="col-md-4 col-md-offset-4">
+								<div class="desc">
+									<p>Achieved Dean's Lister in First Year 1st Semester A.Y 2023-2024 and recognized as Creative coder in 2nd Year in Object Oriented Programming in ability to analyze issues promptly to solve every problem and able to create a E-Voting System for Student Council and Online Appoinment System for Barbershops.</p>
 								</div>
 							</div>
 						</div>
 					</div>
 					<div class="col-md-12">
 						<div class="work-entry animate-box">
-							<a href="work.html" class="work-img" style="background-image: url(images/work-2.jpg);">
-								<div class="display-t">
-									<div class="work-name">
-										<h2>Coordinates</h2>
-									</div>
-								</div>
+							<a href="work.html" class="work-img" style="background-image: url(images/achievements3N.jpg);">
+							<!-- Removed the "class = display-t button" -->
 							</a>
 							<div class="col-md-4 col-md-offset-4">
 								<div class="desc">
-									<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
-									<p class="read"><a href="#">View Details</a></p>
+									<p>Gained huge amount of aura when he confidently walks up to stage carrying his wisdom and influence and won as 2nd Runner Up in Mr. ICSLIS 2024. Also, won 2nd Runner Up in Impromptu Speech - English CCA DAYS LAYAG (2024)</p>
 								</div>
 							</div>
 						</div>
 					</div>
 					<div class="col-md-12">
 						<div class="work-entry animate-box">
-							<a href="work.html" class="work-img" style="background-image: url(images/work-3.jpg);">
-								<div class="display-t">
-									<div class="work-name">
-										<h2>Cristall</h2>
-									</div>
-								</div>
+							<a href="work.html" class="work-img" style="background-image: url(images/achievements4N.jpg);">
+							<!-- Removed the "class = display-t button" -->
 							</a>
 							<div class="col-md-4 col-md-offset-4">
 								<div class="desc">
-									<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
-									<p class="read"><a href="#">View details</a></p>
-								</div>
-							</div>
-						</div>
-					</div>
-					<div class="col-md-12">
-						<div class="work-entry animate-box">
-							<a href="work.html" class="work-img" style="background-image: url(images/work-4.jpg);">
-								<div class="display-t">
-									<div class="work-name">
-										<h2>Black</h2>
-									</div>
-								</div>
-							</a>
-							<div class="col-md-4 col-md-offset-4">
-								<div class="desc">
-									<p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.</p>
-									<p class="read"><a href="#">View details</a></p>
+									<p>Able to contribute to Institute of Computing Studies and Library Information Science (ICSLIS) students by joining Student Council in Multimedia and Creatives that will excel his skills in editing and socializing.</p>
 								</div>
 							</div>
 						</div>
