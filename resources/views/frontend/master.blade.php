@@ -164,8 +164,8 @@
 							<div class="one-third">
 								<div class="row">
 									<div class="col-md-12 col-md-offset-0 animate-box intro-heading">
-										<span>My Future Services</span>
-										<h2>Here Are Some of My Future Skills</h2>
+										<span>My Services</span>
+										<h2>Here Are Some of My Skills</h2>
 									</div>
 								</div>
 								<div class="row">
@@ -245,7 +245,7 @@
 				<div class="row">
 					<div class="col-md-12">
 						<div class="work-entry animate-box">
-							<a href="work.html" class="work-img" style="background-image: url(images/achievements1N.png);">
+							<a href="work.html" class="work-img" style="background-image: url(images/achievements1N.jpg);">
                             <!-- Removed the "class = display-t button" -->
 							</a>
 							<div class="col-md-4 col-md-offset-4">
@@ -262,7 +262,7 @@
 							</a>
 							<div class="col-md-4 col-md-offset-4">
 								<div class="desc">
-									<p>Achieved Dean's Lister in First Year 1st Semester A.Y 2023-2024 and recognized as Creative coder in 2nd Year in Object Oriented Programming in ability to analyze issues promptly to solve every problem and able to create a E-Voting System for Student Council and Online Appoinment System for Barbershops.</p>
+									<p>Achieved Dean's Lister in 1st Year 1st Semester A.Y 2023-2024 and recognized as Creative coder in 2nd Year in Object Oriented Programming in ability to analyze issues promptly to solve every problem and able to create a E-Voting System for Student Council and Online Appoinment System for Barbershops.</p>
 								</div>
 							</div>
 						</div>
@@ -286,7 +286,7 @@
 							</a>
 							<div class="col-md-4 col-md-offset-4">
 								<div class="desc">
-									<p>Able to contribute to Institute of Computing Studies and Library Information Science (ICSLIS) students by joining Student Council in Multimedia and Creatives that will excel his skills in editing and socializing.</p>
+									<p>Able to contribute to Institute of Computing Studies and Library Information Science (ICSLIS) students by joining ICSLIS Student Council in Multimedia and Creatives that will excel his skills in editing and socializing.</p>
 								</div>
 							</div>
 						</div>
@@ -374,15 +374,15 @@
 			</div>
 		</div>
 
-		<div id="colorlib-testimony">
+		<div id="colorlib-testimony"> <!-- QUOTES HERE -->
 			<div class="container">
 				<div class="row text-center">
-					<h2 class="bold">Testimonies</h2>
+					<h2 class="bold">Quotes</h2>
 				</div>
 				<div class="row">
 					<div class="col-md-12 col-md-offset-0 text-center animate-box intro-heading">
-						<span>Testimonies</span>
-						<h2>Clients Says</h2>
+						<span>Quotes</span>
+						<h2>Nath's Quote Says</h2>
 					</div>
 				</div>
 				<div class="row">
@@ -398,8 +398,8 @@
 							<div class="col-md-12 text-center">
 								<div class="testimony">
 									<blockquote>
-										<p>"A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
-										<span>" &mdash; George Brooks</span>
+										<p>"You don't have any enemies. No one has any enemies. There's no one who it's okay to hurt</p>
+										<span>" &mdash; Thors, Vinland Saga</span>
 									</blockquote>
 								</div>
 							</div>
@@ -408,8 +408,8 @@
 							<div class="col-md-12 text-center">
 								<div class="testimony">
 									<blockquote>
-										<p>"Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.</p>
-										<span>" &mdash; Daniel Foster</span>
+										<p>"We suffer more often in imagination than in reality</p>
+										<span>" &mdash; Seneca</span>
 									</blockquote>
 								</div>
 							</div>
@@ -418,8 +418,8 @@
 							<div class="col-md-12 text-center">
 								<div class="testimony">
 									<blockquote>
-										<p>"When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove</p>
-										<span>" &mdash; Liam Jenkins</span>
+										<p>"Ocean out of reach. An unknown world teems with life. Fading memories</p>
+										<span>" &mdash; Uncertainty</span>
 									</blockquote>
 								</div>
 							</div>
