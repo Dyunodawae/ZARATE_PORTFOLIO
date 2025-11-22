@@ -55,43 +55,21 @@
 		<a href="#" class="js-colorlib-nav-toggle colorlib-nav-toggle active"><i></i></a>
 		<div class="js-fullheight colorlib-table">
 			<div class="colorlib-table-cell js-fullheight">
-				<div class="row">
-					<div class="col-md-12">
-						<div class="form-group">
-							<input type="text" class="form-control" id="search" placeholder="Enter any key to search...">
-							<button type="submit" class="btn btn-primary"><i class="icon-search3"></i></button>
-						</div>
-					</div>
-				</div>
+				
+				<!-- Removed search bar -->
+			
 				<div class="row">
 					<div class="col-md-12">
 						<ul>
 							<li class="active"><a href="index.html">Home</a></li>
 							<li><a href="services.html">Services</a></li>
-							<li><a href="work.html">Work</a></li>
-							<li><a href="blog.html">Blog</a></li>
-							<li><a href="about.html">About</a></li>
 							<li><a href="contact.html">Contact</a></li>
 						</ul>
 					</div>
 				</div>
-				<div class="row">
-					<div class="col-md-12">
-						<h2 class="head-title">Works</h2>
-						<a href="images/work-1.jpg" class="gallery image-popup-link text-center" style="background-image: url(images/work-1.jpg);">
-							<span><i class="icon-search3"></i></span>
-						</a>
-						<a href="images/work-2.jpg" class="gallery image-popup-link text-center" style="background-image: url(images/work-2.jpg);">
-							<span><i class="icon-search3"></i></span>
-						</a>
-						<a href="images/work-3.jpg" class="gallery image-popup-link text-center" style="background-image: url(images/work-3.jpg);">
-							<span><i class="icon-search3"></i></span>
-						</a>
-						<a href="images/work-4.jpg" class="gallery image-popup-link text-center" style="background-image: url(images/work-4.jpg);">
-							<span><i class="icon-search3"></i></span>
-						</a>
-					</div>
-				</div>
+				
+				<!-- Removed Works Section -->
+
 			</div>
 		</div>
 	</nav>
@@ -139,12 +117,11 @@
 								<div class="rotate">
 									<h2 class="heading">About</h2>
 								</div>
-								<p>A <a href="#">Computer Science Student</a> in City College of Angeles who is responsible for improving himself as he studies and also part of ICSLIS Student Council in Multimedia and Creatives.</p>
+								<p>A <a>Computer Science Student</a> in City College of Angeles who is responsible for improving himself as he studies and also part of ICSLIS Student Council in Multimedia and Creatives.</p>
 								<p class="colorlib-social-icons">
-									<a href="#"><i class="icon-facebook4"></i></a>
-									<a href="#"><i class="icon-twitter3"></i></a>
-									<a href="#"><i class="icon-googleplus"></i></a>
-									<a href="#"><i class="icon-dribbble2"></i></a>
+									<a href="https://www.facebook.com/nath.zarate"><i class="icon-facebook2"></i></a>
+									<a href="https://github.com/Dyunodawae"><i class="icon-github"></i></a>
+									<a href="https://www.instagram.com/dyunodawae/"><i class="icon-instagram2"></i></a>
 								</p>
 								<p><a href="#" class="btn btn-primary btn-outline">Contact Me!</a></p>
 							</div>
@@ -250,7 +227,7 @@
 							</a>
 							<div class="col-md-4 col-md-offset-4">
 								<div class="desc">
-									<p>Graduated High School with Honors and Senior High School with High Honors Specializing in Science, Technology, Engineering, and Mathematics Strand (STEM) in New Era University Pampanga Branch.</p>
+									<p>Graduated Junior High School with Honors and Senior High School with High Honors Specializing in Science, Technology, Engineering, and Mathematics Strand (STEM) in New Era University Pampanga Branch.</p>
 								</div> <!-- Removed the "view details button" -->
 							</div>
 						</div>
@@ -295,84 +272,7 @@
 			</div>
 		</div>
 
-		<div id="colorlib-blog">
-			<div class="container">
-				<div class="row text-center">
-					<h2 class="bold">Blog</h2>
-				</div>
-				<div class="row">
-					<div class="col-md-12 col-md-offset-0 text-center animate-box intro-heading">
-						<span>Blog</span>
-						<h2>Read Our Case</h2>
-					</div>
-				</div>
-				<div class="row">
-					<div class="col-md-12">
-						<div class="rotate">
-							<h2 class="heading">Our Blog</h2>
-						</div>
-					</div>
-				</div>
-				<div class="row animate-box">
-					<div class="owl-carousel1">
-						<div class="item">
-							<div class="col-md-12">
-								<div class="article">
-									<a href="blog.html" class="blog-img">
-										<img class="img-responsive" src="images/img-1.jpg" alt="html5 bootstrap by colorlib.com">
-										<div class="overlay"></div>
-										<div class="link">
-											<span class="read">Read more</h2>
-										</div>
-									</a>
-									<div class="desc">
-										<span class="meta">15, Feb 2018</span>
-										<h2><a href="blog.html">A Japanese Constellation</a></h2>
-										<p>When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove</p>
-									</div>
-								</div>
-							</div>
-						</div>
-						<div class="item">
-							<div class="col-md-12">
-								<div class="article">
-									<a href="blog.html" class="blog-img">
-										<img class="img-responsive" src="images/img-2.jpg" alt="html5 bootstrap by colorlib.com">
-										<div class="overlay"></div>
-										<div class="link">
-											<span class="read">Read more</h2>
-										</div>
-									</a>
-									<div class="desc">
-										<span class="meta">15, Feb 2018</span>
-										<h2><a href="blog.html">A Japanese Constellation</a></h2>
-										<p>When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove</p>
-									</div>
-								</div>
-							</div>
-						</div>
-						<div class="item">
-							<div class="col-md-12">
-								<div class="article">
-									<a href="blog.html" class="blog-img">
-										<img class="img-responsive" src="images/img-3.jpg" alt="html5 bootstrap by colorlib.com">
-										<div class="overlay"></div>
-										<div class="link">
-											<span class="read">Read more</h2>
-										</div>
-									</a>
-									<div class="desc">
-										<span class="meta">15, Feb 2018</span>
-										<h2><a href="blog.html">A Japanese Constellation</a></h2>
-										<p>When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove</p>
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
+		<!-- Removed "Blog" section -->
 
 		<div id="colorlib-testimony"> <!-- QUOTES HERE -->
 			<div class="container">
