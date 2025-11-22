@@ -227,7 +227,7 @@
 							</a>
 							<div class="col-md-4 col-md-offset-4">
 								<div class="desc">
-									<p>Graduated Junior High School with Honors and Senior High School with High Honors Specializing in Science, Technology, Engineering, and Mathematics Strand (STEM) in New Era University Pampanga Branch.</p>
+									<p>Graduated Junior High School with Honors and Senior High School with High Honors Specializing in <b element class='b'>Science, Technology, Engineering, and Mathematics Strand (STEM)</b> in New Era University Pampanga Branch.</p>
 								</div> <!-- Removed the "view details button" -->
 							</div>
 						</div>

@@ -574,6 +574,10 @@ header {
   -webkit-animation: loading-5 1.2s linear forwards 1.8s;
   animation: loading-5 1.2s linear forwards 1.8s; }
 
+.b {
+  color: #F0B323;
+}
+
 @-webkit-keyframes loading-1 {
   0% {
     -webkit-transform: rotate(0deg);
